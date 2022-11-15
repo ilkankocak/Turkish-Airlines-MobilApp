@@ -1,0 +1,5 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+# thy uygulaması acılır,book a flight butonuna basılır
+* "com.turkishairlines.mobile:id/acMain_btnBooking" elemente id ile tıkla
